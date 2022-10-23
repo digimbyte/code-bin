@@ -1,5 +1,6 @@
 *getTokens request payload*
-```{
+```js
+{
     "jsonrpc": "2.0",
     "id": 1,
     "method": "invokefunction",
@@ -13,10 +14,12 @@
             }
         ]
     ]
-}```
+}
+```
 
 *traverseiterator request payload *
-```{
+```js
+{
     "jsonrpc": "2.0",
     "id": 1,
     "method": "traverseiterator",
@@ -25,10 +28,12 @@
         "3781fdc8-f54c-4219-86bf-14a077062f90",
         100 //max quantity results
     ]
-}```
+}
+```
 
 *properties request payload*
-```{
+```js
+{
     "jsonrpc": "2.0",
     "id": 1,
     "method": "invokefunction",
@@ -42,4 +47,5 @@
             }
         ]
     ]
-}```
+}
+```
