@@ -1,6 +1,7 @@
 **How to use**  
 Make a post request to:  
-testnet: `http://seed5t5.neo.org:20332`  
+official testnet: `http://seed5t5.neo.org:20332`  
+custom testnet: `t5node.tothemoonuniverse.com`  
 mainnet: `https://node.tothemoonuniverse.com`  
   
 
