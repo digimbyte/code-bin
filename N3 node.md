@@ -1,4 +1,4 @@
-*getTokens request payload*
+**getTokens request payload**
 ```js
 {
     "jsonrpc": "2.0",
@@ -17,7 +17,7 @@
 }
 ```
 
-*traverseiterator request payload *
+**traverseiterator request payload**
 ```js
 {
     "jsonrpc": "2.0",
@@ -31,7 +31,7 @@
 }
 ```
 
-*properties request payload*
+**properties request payload**
 ```js
 {
     "jsonrpc": "2.0",
