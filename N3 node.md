@@ -1,3 +1,8 @@
+**How to use**
+Make a post request to:
+testnet: `http://seed5t5.neo.org:20332`
+mainnet: `https://node.tothemoonuniverse.com`
+
 **getTokens request payload**
 ```js
 {
@@ -17,7 +22,7 @@
 }
 ```
 
-**traverseiterator request payload**
+**traverse iterator request payload**
 ```js
 {
     "jsonrpc": "2.0",
@@ -43,7 +48,7 @@
         [
             {
                 "type": "ByteArray",
-                "value": "TUQy" //tokenId of an nft
+                "value": "TUQy" //tokenId of an nft (base64)
             }
         ]
     ]
