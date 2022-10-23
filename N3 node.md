@@ -1,7 +1,10 @@
 **How to use**
 Make a post request to:
+
 testnet: `http://seed5t5.neo.org:20332`
+
 mainnet: `https://node.tothemoonuniverse.com`
+
 
 **getTokens request payload**
 ```js
